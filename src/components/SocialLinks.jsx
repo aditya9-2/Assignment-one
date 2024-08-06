@@ -15,7 +15,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/aditya-basak-84292b1b7/',
+            href: 'https://www.linkedin.com/in/aadityabasak20/',
             style: 'rounded-tr-md' // Additional styling for top-right rounded corners
         },
 
@@ -46,7 +46,7 @@ const SocialLinks = () => {
                     Instagram <BsInstagram size={30} />
                 </>
             ),
-            href: 'https://www.instagram.com/adityaa_basak/',
+            href: 'https://www.instagram.com/adityaa_basak',
         },
 
         {
@@ -56,7 +56,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/resume.pdf',
+            href: '/aditya_Basak-resume.pdf',
             style: 'rounded-br-md', // Additional styling for bottom-right rounded corners
             download: true, // Indicates that this link should trigger a file download
         },
