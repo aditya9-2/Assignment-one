@@ -21,7 +21,7 @@ const Home = () => {
 
                     {/* Paragraph with introductory text */}
                     <p className='text-slate-400 py-4 max-w-md'>
-                        Welcome to my portfolio! I am Aditya, a freelancer with a passion for exploring new technologies. My curiosity and enthusiasm drive me to always be learning and experimenting with the latest advancements in my field. You can see some of the work I have done in the past in the projects section of my portfolio, which will give you a sense of my skills and experience. Thank you for taking the time to visit, and I hope you find what you're looking for.
+                        Welcome to my portfolio! I am Aditya, a freelancer with a passion for exploring new technologies. My curiosity and enthusiasm drive me to always be learning and experimenting with the latest advancements in my field. You can see some of the work I have done in the past in the projects section of my portfolio, which will give you a sense of my skills and experience. Thank you for taking the time to visit, and I hope you find what you are looking for.
                     </p>
 
                     {/* Button linking to the portfolio section with smooth scroll */}
